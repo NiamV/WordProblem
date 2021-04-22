@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Definitions}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Group Presentations}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Cayley Graphs}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{The Word Problem}{}% 5
+\BOOKMARK [1][-]{section.4}{Todd Coxeter Algorithm}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{General Algorithm}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Implementation}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Knuth Bendix Algorithm}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Automatic Groups}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Constructing W}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.3}{Knuth Bendix Algorithm}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 13
